@@ -1,0 +1,6 @@
+*.tfstate
+*.tfstate.*
+terraform.tfvars
+scratch
+*.lock.*
+.terraform

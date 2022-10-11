@@ -1,0 +1,13 @@
+auth_token = "your_API_token_goes_here"
+project_id =  "your_Project_ID_goes_here"
+plan =  "m3.large.x86"
+operating_system = "vmware_esxi_7_0_vcf"
+billing_cycle = "hourly"
+metro = "da"
+hostname_prefix = "dl-da-vcfmgw"
+domain = "cl.dl.lab"
+password = "hashed_password_goes_here"
+mgw_vlanid = "99"
+private_vlanid = "900"
+ntp = "pool.ntp.org"
+mgw_subnet_size = 8
